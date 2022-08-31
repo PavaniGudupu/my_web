@@ -1,0 +1,336 @@
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  position: relative;
+  left: 80px;
+  padding: 3%;
+}
+.clg {
+  height: 30%;
+  width: auto;
+}
+
+.carouselExampleControls {
+  padding: 10px;
+
+}
+
+.carousel-inner  {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 100vw;
+    height: auto;
+    max-height: 100vh;
+    bottom: 0;
+}
+.header{
+  background-color: #E8F9FD;
+}
+.chairman {
+  font-family: sans-serif;
+  text-align: left;
+  padding: 150px 200px;
+  font-size: 20px;
+}
+
+.h1 {
+  font-family: sans-serif;
+  padding: 50px 130px;
+
+}
+.card1 {
+
+  padding: 30Px;
+  position: relative;
+  left: 10%;
+}
+.card2 {
+  padding: 30px;
+  position: relative;
+  left: 20%;
+}
+.card3 {
+  padding: 30px;
+  position: relative;
+  left: 30%;
+
+}
+.card_p {
+  font-size: 1px;
+}
+.card4 {
+  padding: 30px;
+  position:relative;
+  left: 10%;
+}
+.card5 {
+   padding: 30px;
+   position: relative;
+   left: 20%;
+}
+.card6 {
+  padding: 30px;
+  position: relative;
+  left: 30%;
+}
+.card7 {
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.card8{
+  padding: 30px;
+  position: relative;
+  left: 20%;
+}
+.card9 {
+  padding: 30px;
+  position: relative;
+  left: 30%;
+}
+.h2 {
+  font-family: sans-serif;
+  padding-left: 130px;
+}
+.card10 {
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.card11 {
+  padding: 30px;
+  position: relative;
+  left: 20%;
+}
+.card12 {
+  padding: 30px;
+  position: relative;
+  left: 30%;
+}
+.club1 {
+  height: 50%;
+  width: 50%;
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.club2 {
+  height: 50%;
+  width: 60%;
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.club3 {
+  height: 50%;
+  width: 50%;
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+
+.club4 {
+  height: 10%;
+  width: 50%;
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.club5 {
+  height: 50%;
+  width: 60%;
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.club6 {
+  height: 100%;
+  width: 50%;
+  padding: 30px;
+  position: relative;
+  left: 10%;
+}
+.p {
+  padding: 20px;
+  position: relative;
+  left: 25%;
+}
+.row {
+  padding: 100px;
+  background-color: #002B5B;
+  
+  
+}
+.link {
+  color: white;
+  padding: 100px;
+}
+.sent1 {
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: 30px;
+}
+.sent2 {
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: 50px;
+}
+.sent3 {
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: 50px;
+}
+.sent4 {
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: 50px;
+}
+.sent5 {
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: 50px;
+}
+.sent6 {
+  color: white;
+  padding: 20px;
+  position: relative;
+  left: 50px;
+}
+
+.f {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  left: 30px;
+}
+.google {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  left: 30px;
+  border-radius: 100px;
+
+}
+.m {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  left: 30px;
+  border-radius: 100px;
+
+}
+.c {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  left: 30px;
+  border-radius: 100px;
+
+}
+.b {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  left: 30px;
+  border-radius: 100px;
+
+
+}
+.i {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  left: 30px;
+  border-radius: 100px;
+
+
+}
+.h1_1 {
+  font-family: sans-serif;
+  padding: 80px 150px;
+}
+.s {
+  background-color: #002B5B;
+  height: 150%;
+  width: 80%;
+  position: relative;
+  left: 130px;
+  padding: 100px;
+}
+
+.t {
+  color: white;
+  padding: 20px;
+  text-align: centert;
+}
+.naac {
+  height: 130px;
+  width: 130px;
+  border-radius: 30px;
+  padding: 10px;
+}
+.aut {
+  height: 130px;
+  width: 130px;
+  border-radius: 30px;
+  padding: 10px;
+}
+.rank {
+  height: 130px;
+  width: 130px;
+  border-radius: 30px;
+  padding: 10px;
+}
+.ps {
+  text-align: left;
+  padding: 30px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 300px;
+}
+.tr {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.hr {
+  border-style: none;
+  border-top-style: dotted ;
+  border-color: black;
+  border-width: 5px;
+  width: 200px;
+  position: relative;
+  left: 650px;
+}
+.bus {
+  height: 500px;
+  width: 1000px;
+  position: relative;
+  left: 15%;
+  
+}
+.place {
+  height: 500px;
+  width: 1000px;
+  position: relative;
+  left: 15%;
+}
+.ncc {
+  height: 500px;
+  width: 1000px;
+  position: relative;
+  left: 15%;
+}
